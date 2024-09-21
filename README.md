@@ -105,7 +105,7 @@ set -g @gruvbox-tmux_show_music 1
 set -g @gruvbox-tmux_show_netspeed 1
 set -g @gruvbox-tmux_netspeed_iface "wlo1" # run `ip a` to see yours
 set -g @gruvbox-tmux_netspeed_showip 1      # Display IPv4 address (default 0)
-set -g @gruvbox-tmux_netspeed_refresh 0.1     # Update interval in seconds (default 1)
+set -g @gruvbox-tmux_netspeed_refresh 1     # Update interval in seconds (default 1)
 ```
 
 #### Path Widget
