@@ -140,6 +140,8 @@ changing values.
 
 ### Demo
 
+[Demo](screenshots/recording_2024-09-22_00.37.03.mp4)
+
 ### Snapshots
 
 - Terminal: St from siduck [St](https://github.com/siduck/st)
