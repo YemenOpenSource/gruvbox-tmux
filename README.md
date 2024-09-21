@@ -140,8 +140,6 @@ changing values.
 
 ### Demo
 
-https://github.com/janoamaral/tokyo-night-tmux/assets/10008708/59ecd814-bc2b-47f2-82b1-ffdbfbc54fbf
-
 ### Snapshots
 
 - Terminal: St from siduck [St](https://github.com/siduck/st)
