@@ -54,7 +54,7 @@ brew install bash bc coreutils gawk gh glab gsed jq nowplaying-cli
 In your `tmux.conf` add :
 
 ```bash
-set -g @plugin "motaz-shokry/gruvbox-tmux"
+set -g @plugin "https://gitlab.com/motaz-shokry/gruvbox-tmux"
 ```
 
 ## Configuration
