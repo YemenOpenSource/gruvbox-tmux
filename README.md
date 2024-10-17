@@ -140,7 +140,7 @@ changing values.
 
 ### Demo
 
-[Demo](screenshots/recording_2024-09-22_00.37.03.mp4)
+[Demo](screenshots/recording.mp4)
 
 ### Snapshots
 
