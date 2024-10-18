@@ -140,7 +140,7 @@ changing values.
 
 ### Demo
 
-[Demo](screenshots/recording.mp4)
+![Demo](screenshots/output.webm)
 
 ### Snapshots
 
