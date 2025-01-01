@@ -5,9 +5,9 @@ SELECTED_THEME="$(tmux show-option -gv @gruvbox-tmux_theme)"
 case $SELECTED_THEME in
 "hard")
   declare -A THEME=(
-    ["background"]="#1d2021"
+    ["background"]="#1b1b1b"
     ["foreground"]="#fbf1c7"
-    ["black"]="#282828"
+    ["black"]="#1d2021"
     ["blue"]="#458588"
     ["cyan"]="#689d6a"
     ["green"]="#98971a"
@@ -54,9 +54,9 @@ case $SELECTED_THEME in
 *)
   # Default theme
   declare -A THEME=(
-    ["background"]="#1d2021"
+    ["background"]="#1b1b1b"
     ["foreground"]="#fbf1c7"
-    ["black"]="#282828"
+    ["black"]="#1b2021"
     ["blue"]="#458588"
     ["cyan"]="#689d6a"
     ["green"]="#98971a"
